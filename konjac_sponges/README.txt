@@ -33,3 +33,4 @@ Date: 12/10/2022
 -------------------------------------------------------------------------------------------------------------------------------------
 
 0400 : started scaffholding in controller file.
+0405 : added new code line in appsetting.json file.
