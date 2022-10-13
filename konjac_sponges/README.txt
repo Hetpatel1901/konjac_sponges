@@ -14,3 +14,11 @@ Date: 12/10/2022
 1135 : Created controllers for my product.
 1145 : I created sponge folder in views and inserted AboutUs and Index.cshtml files.
 
+-----------------------------------------------------------------------------------------------------------------------------------
+
+0200 : updated Index.cshtml file in Home page.
+0205 : collecting all the data about company from the web.
+0210 : creating img folder in roots folder.
+0220 : start to write all the information about company in AboutUs.cshtml file in sponge folder.
+0225 : inserting image in AbotUs page.
+0230 : updating index file in sponge folder.
