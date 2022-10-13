@@ -23,3 +23,4 @@ Date: 12/10/2022
 0225 : inserting image in AbotUs page.
 0230 : updating index file in sponge folder.
 0245 : privacy policy page updated.
+0300 : Fonts added in roots folder and linked to AboutUs page. 
