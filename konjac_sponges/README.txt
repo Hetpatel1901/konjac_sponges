@@ -14,4 +14,3 @@ Date: 12/10/2022
 1135 : Created controllers for my product.
 1145 : I created sponge folder in views and inserted AboutUs and Index.cshtml files.
 
->>>>>>> 4c6f708c3292087f3f7458729b21afa65c9b42aa
