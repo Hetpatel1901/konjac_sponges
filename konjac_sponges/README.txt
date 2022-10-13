@@ -29,3 +29,7 @@ Date: 12/10/2022
 0325 : added variables in spongeclass file.
 0335 : ceated spongecontext.cs file in data folder.
 0340 : updated sponge context file.
+
+-------------------------------------------------------------------------------------------------------------------------------------
+
+0400 : started scaffholding in controller file.

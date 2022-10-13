@@ -1,4 +1,4 @@
-using konjac_sponges.Data;
+﻿using konjac_sponges.Data;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.HttpsPolicy;
@@ -34,6 +34,9 @@ namespace konjac_sponges
                 .AddEntityFrameworkStores<ApplicationDbContext>();
             services.AddControllersWithViews();
             services.AddRazorPages();
+
+            services.AddDbContext<konjac_spongesContext>(options =>
+                    options.UseSqlServer(Configuration.GetConnectionString("konjac_spongesContext")));
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
