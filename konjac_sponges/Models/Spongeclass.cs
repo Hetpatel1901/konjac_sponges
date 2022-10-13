@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
+using System.ComponentModel.DataAnnotations;
 
 namespace konjac_sponges.Models
 {
@@ -13,5 +14,9 @@ namespace konjac_sponges.Models
         public decimal SpongeSize { get; set; }
 
         public string Color { get; set; }
+
+        public string Shape { get; set; }
+
+        public string Review { get; set; }
     }
 }

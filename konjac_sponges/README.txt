@@ -34,3 +34,9 @@ Date: 12/10/2022
 
 0400 : started scaffholding in controller file.
 0405 : added new code line in appsetting.json file.
+0420 : forgot to add minimum 6 attributes in class.
+0430 : added two more attributes in sponge class file.
+0435 : changed all the scaffhold files.
+0450 : Added migration and nuget tools.
+0455 : updating migration process.
+0500 : catch some errors while migration process.
