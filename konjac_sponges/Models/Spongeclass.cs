@@ -17,6 +17,6 @@ namespace konjac_sponges.Models
 
         public string Shape { get; set; }
 
-        public string Review { get; set; }
+        public int Review { get; set; }
     }
 }

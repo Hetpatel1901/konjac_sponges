@@ -25,7 +25,7 @@ namespace konjac_sponges.Models
                     {
                         ProductName = "Soft sponge",
                         Price = 7.99,
-                        SpongeSize = 5M,
+                        SpongeSize = 5,
                         Color = "White",
                         Shape = "Rectangle",
                         Review = 5
@@ -35,7 +35,7 @@ namespace konjac_sponges.Models
                     {
                         ProductName = "Hard sponge",
                         Price = 8.99,
-                        SpongeSize = 7M,
+                        SpongeSize = 7,
                         Color = "Black",
                         Shape = "Round",
                         Review = 8
@@ -45,7 +45,7 @@ namespace konjac_sponges.Models
                     {
                         ProductName = "Baby sponge",
                         Price = 10.99,
-                        SpongeSize = 5M,
+                        SpongeSize = 5,
                         Color = "Pink",
                         Shape = "Heart",
                         Review = 10
@@ -55,7 +55,7 @@ namespace konjac_sponges.Models
                     {
                         ProductName = "Gentlemens sponge",
                         Price = 15.99,
-                        SpongeSize = 10M,
+                        SpongeSize = 10,
                         Color = "Red",
                         Shape = "Diamond",
                         Review = 10
@@ -65,7 +65,7 @@ namespace konjac_sponges.Models
                     {
                         ProductName = "Woman sponge",
                         Price = 9.99,
-                        SpongeSize = 7M,
+                        SpongeSize = 7,
                         Color = "Blue",
                         Shape = "speare",
                         Review = 7
@@ -75,7 +75,7 @@ namespace konjac_sponges.Models
                     {
                         ProductName = "Sponge pro",
                         Price = 3.99,
-                        SpongeSize = 4M,
+                        SpongeSize = 4,
                         Color = "Silver",
                         Shape = "Rectangle",
                         Review = 6
@@ -85,7 +85,7 @@ namespace konjac_sponges.Models
                     {
                         ProductName = "Sponge max",
                         Price = 8.99,
-                        SpongeSize = 8M,
+                        SpongeSize = 8,
                         Color = "Black",
                         Shape = "Heart",
                         Review = 9
@@ -95,7 +95,7 @@ namespace konjac_sponges.Models
                     {
                         ProductName = "Sponge ultra",
                         Price = 7.99,
-                        SpongeSize = 5M,
+                        SpongeSize = 5,
                         Color = "Yellow",
                         Shape = "Round",
                         Review = 8
@@ -105,7 +105,7 @@ namespace konjac_sponges.Models
                     {
                         ProductName = "Sponge ultra pro",
                         Price = 5.99,
-                        SpongeSize = 10M,
+                        SpongeSize = 10,
                         Color = "Green",
                         Shape = "Owl",
                         Review = 5
@@ -115,7 +115,7 @@ namespace konjac_sponges.Models
                     {
                         ProductName = "Sponge ultra pro max",
                         Price = 10.99,
-                        SpongeSize = 7M,
+                        SpongeSize = 7,
                         Color = "White",
                         Shape = "Speare",
                         Review = 10
