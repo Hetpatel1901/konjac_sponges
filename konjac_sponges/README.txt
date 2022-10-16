@@ -41,3 +41,15 @@ Date: 12/10/2022
 0455 : updating migration process.
 0500 : catch some errors while migration process.
 0510 : migration completed successfully.
+
+----------------------------------------------------------------------------------------------------------------------------------------
+
+Date: 15/10/2022
+
+1200 : Clone repositery in my laptop.
+1205 : running the whole program on the web.
+1210 : still error showing in catalogue page.
+1215 : added migration and database updated again.
+1220 : checking all the codes again.
+1230 : last run from my side.
+1235 : web page loads on chrome and data run sccussfully.

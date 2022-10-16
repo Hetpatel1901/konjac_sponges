@@ -2,15 +2,17 @@
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Infrastructure;
 using Microsoft.EntityFrameworkCore.Metadata;
+using Microsoft.EntityFrameworkCore.Migrations;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 using konjac_sponges.Data;
 
 namespace konjac_sponges.Migrations
 {
     [DbContext(typeof(konjac_spongesContext))]
-    partial class konjac_spongesContextModelSnapshot : ModelSnapshot
+    [Migration("20221016024118_InitailCreate")]
+    partial class InitailCreate
     {
-        protected override void BuildModel(ModelBuilder modelBuilder)
+        protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
 #pragma warning disable 612, 618
             modelBuilder
