@@ -40,15 +40,6 @@ Date: 12/10/2022
 0450 : Added migration and nuget tools.
 0455 : updating migration process.
 0500 : catch some errors while migration process.
-0510 : migration completed successfully.
-<<<<<<< HEAD
-0700 : commented all the codes in program.
-
----------------------------------------------------------------------------------------------------------------------------------------
-
-0702 : Last check:)
-0703 : program run successfully without any single error.
-=======
 
 ----------------------------------------------------------------------------------------------------------------------------------------
 
@@ -61,4 +52,15 @@ Date: 15/10/2022
 1220 : checking all the codes again.
 1230 : last run from my side.
 1235 : web page loads on chrome and data run sccussfully.
->>>>>>> c9921e736a59c78ca8ddeaf726784c782a17b83d
+0510 : migration completed successfully.
+0700 : commented all the codes in program.
+
+---------------------------------------------------------------------------------------------------------------------------------------
+
+0702 : Last check:)
+0703 : program run successfully without any single error.
+
+
+
+
+
