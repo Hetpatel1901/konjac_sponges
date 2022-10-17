@@ -7,6 +7,9 @@ using Microsoft.AspNetCore.Mvc.Rendering;
 using Microsoft.EntityFrameworkCore;
 using konjac_sponges.Data;
 using konjac_sponges.Models;
+// File: SpongeClassesController.cs
+// Author Name: Het Natvarbhai Patel
+// Student i'd: 0805024
 
 namespace konjac_sponges.Controllers
 {

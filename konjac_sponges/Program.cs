@@ -9,6 +9,9 @@ using System.Threading.Tasks;
 using Microsoft.Extensions.DependencyInjection;
 using konjac_sponges.Data;
 using konjac_sponges.Models;
+// File: Program.cs
+// Author Name: Het Natvarbhai Patel
+// Student i'd: 0805024
 
 namespace konjac_sponges
 {
@@ -21,7 +24,7 @@ namespace konjac_sponges
             using (var scope = host.Services.CreateScope())
             {
                 var services = scope.ServiceProvider;
-
+                // Initialize seed data
                 try
                 {
                     SeedData.Initialize(services);

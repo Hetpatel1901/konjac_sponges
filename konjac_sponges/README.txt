@@ -41,3 +41,9 @@ Date: 12/10/2022
 0455 : updating migration process.
 0500 : catch some errors while migration process.
 0510 : migration completed successfully.
+0700 : commented all the codes in program.
+
+---------------------------------------------------------------------------------------------------------------------------------------
+
+0702 : Last check:)
+0703 : program run successfully without any single error.

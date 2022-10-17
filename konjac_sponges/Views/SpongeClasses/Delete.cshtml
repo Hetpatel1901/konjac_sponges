@@ -3,13 +3,17 @@
 @{
     ViewData["Title"] = "Delete";
 }
-
+<!--
+        Name: Het Natvarbhai Patel
+        Student I'd: 0805024
+        -->
 <h1>Delete</h1>
 
 <h3>Are you sure you want to delete this?</h3>
 <div>
     <h4>SpongeClass</h4>
     <hr />
+    <!--All seed data here-->
     <dl class="row">
         <dt class="col-sm-2">
             @Html.DisplayNameFor(model => model.ProductName)
@@ -50,7 +54,7 @@
             @Html.DisplayFor(model => model.Review)
         </dd>
     </dl>
-    
+
     <form asp-action="Delete">
         <input type="hidden" asp-for="ID" />
         <input type="submit" value="Delete" class="btn btn-danger" /> |

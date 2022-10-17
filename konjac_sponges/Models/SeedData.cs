@@ -3,6 +3,9 @@ using Microsoft.Extensions.DependencyInjection;
 using konjac_sponges.Data;
 using System;
 using System.Linq;
+// File: Seeddata.cs
+// Author Name: Het Natvarbhai Patel
+// Student i'd: 0805024
 
 namespace konjac_sponges.Models
 {
@@ -20,6 +23,7 @@ namespace konjac_sponges.Models
                     return;   // DB has been seeded
                 }
 
+                //Adding alll seeddata here...
                 context.SpongeClass.AddRange(
                     new SpongeClass
                     {
